@@ -1,0 +1,530 @@
+/* color Css start */
+
+/* Selection Color */
+::-webkit-selection {
+    color: #202020;
+    background: #fff;
+}
+::-moz-selection {
+    color: #202020;
+    background: #fff;
+}
+::selection {
+    color: #202020;
+    background: #fff;
+}
+img::-moz-selection {
+    color: #202020;
+    background: transparent;
+}
+img::-webkit-selection {
+    color: #202020;
+    background: transparent;
+}
+img::selection {
+    color: #202020;
+    background: transparent;
+}
+img::-moz-selection {
+    color: #202020;
+    background: transparent;
+}
+img::-webite-selection {
+    color: #202020;
+    background: transparent;
+}
+body {
+    -webkit-tap-highlight-color: #303030;
+    -moz-tap-highlight-color: #303030;
+    -ms-tap-highlight-color: #303030;
+    -o-tap-highlight-color: #303030;
+    tap-highlight-color: #303030;
+}
+
+
+/*  Background Colors
+  -----------------------------------------*/
+
+/* Darker Gray Backgorund Color = #2B2B2B */
+.white-bg,
+body,
+.btn-darkgray:hover,
+header.site-header.navbar-fixed-top.affix,
+.white_header_text.site-header .navbar ul.navbar-nav li.active a:after,
+.white_header_text.site-header .navbar ul.navbar-nav li:hover a:after,
+.slider_area .home_slider:hover .owl-nav>div:hover,
+.slider_area .home_slider .slingle_home_slider .slider_area_inner h2 span,
+.slider_area .owl-dots .owl-dot.active,
+.slider_area .owl-dots .owl-dot:hover,
+.slider_area .hero_image_section:hover .owl-nav>div:hover,
+.slider_area .home_slider_normal:hover .owl-nav>div:hover,
+.slider_area .hero_image_section .slingle_normal_home_slider .slider_area_inner h2 span,
+.slider_area .home_slider_normal .slingle_normal_home_slider .slider_area_inner h2 span,
+.slider_area .nivo-slider-wrapper .nivo-caption h2 span,
+.slider_area .nivo-slider-wrapper .nivo-directionNav a:hover,
+.slider_area .nivo-slider-wrapper .nivo-controlNav .nivo-control.active,
+.skill_area .skill_bar_inner_box .skill_bars .bar .bar-inner:before,
+.testimonial_slider .testimonial_slider_item .test_title_image .test_image,
+.blog-post:hover,
+.contact_info_box .contact_info,
+.commentsBox .comment-respond .comment-form .form-submit .btn:hover {
+    background-color: #2B2B2B;
+}
+
+
+/* Dark Gray Backgorund Color = #202020  */
+.white-dark-bg,
+.slider_area,
+.testimonial_slider .testimonial_slider_item .test_content,
+.page_title_area,
+.blog_area.blogpage_area .blog_item.blog_posts_page .blog_item_detail blockquote,
+#loader-wrapper {
+    background-color: #202020;
+}
+.dark-gray-bg,
+.btn-darkgray,
+.navbar-toggle .icon-bar,
+.white_header_text.affix.site-header .navbar ul.navbar-nav li.active a:after,
+.white_header_text.affix.site-header .navbar ul.navbar-nav li:hover a:after,
+.site-header .navbar ul.navbar-nav li.active a:after,
+.site-header .navbar ul.navbar-nav li:hover a:after,
+.skill_area .skill_bar_inner_box .skill_bars .bar .bar-inner,
+.skill_area .skill_bar_inner_box .skill_bars .bar .bar-inner:after,
+.scrollup,
+.widget .tagcloud a.active,
+.widget .tagcloud a:hover,
+.maheer_select button .bs-caret,
+.commentsBox .comment-respond .comment-form .form-submit .btn,
+#loader-wrapper .line,
+#loader-wrapper .stop_loading {
+    background-color: #202020;
+}
+
+/* Light Gray Background Color = #d0d0d0 */
+.light-gray-bg,
+.slider_area .owl-dots .owl-dot,
+.slider_area .owl-nav>div,
+.slider_area .nivo-slider-wrapper .nivo-controlNav .nivo-control,
+.testimonial_slider .owl-dots .owl-dot.active,
+.footer_social_box li:hover,
+.maheer_select .dropdown-menu>.active>a,
+.maheer_select .dropdown-menu>.active>a:focus,
+.maheer_select .dropdown-menu>.active>a:hover,
+.maheer_select .dropdown-menu>li a:focus,
+.maheer_select .dropdown-menu>li a:hover {
+    background-color: #d0d0d0;
+}
+
+/* Light Gray Background Color */
+.lighter-gray-bg,
+.btn-border:hover,
+.testimonial_slider .owl-dots .owl-dot,
+.contact_info_box .contact_info:hover {
+    background-color: #cccccc;
+}
+
+.blog-post {
+    background-color: #f1f1f1;
+    -webkit-box-shadow: 0 0 2px #ccc;
+    box-shadow: 0 0 2px #ccc;
+}
+.blog-post:hover .blog_post_meta .btn:hover {
+    background-color: #f1f1f1;
+}
+
+.white_header_text.affix.site-header .navbar ul.navbar-nav li.active a:after,
+.white_header_text.affix.site-header .navbar ul.navbar-nav li:hover a:after,
+.site-header .navbar ul.navbar-nav li.active a:after,
+.site-header .navbar ul.navbar-nav li:hover a:after {
+    background-color: #fff;
+}
+
+/* Transparent Backgorund Color*/
+.footer_social_box li {
+    background-color: transparent;
+}
+.page_title_area .breadcrumb {
+    background-color: transparent;
+}
+.site-header .navbar ul.navbar-nav li a:after {
+    background-color: transparent;
+}
+.site-header .navbar ul.navbar-nav li a:hover,
+.site-header .navbar ul.navbar-nav li a:focus {
+    background-color: transparent;
+}
+.slider_area .home_slider .slingle_home_slider .slider_area_inner {
+    background-color: rgba(0, 0, 0, 0.73);
+}
+.slider_area .hero_image_section .slingle_normal_home_slider .slider_area_inner,
+.slider_area .home_slider_normal .slingle_normal_home_slider .slider_area_inner {
+    background-color: rgba(0, 0, 0, 0.73);
+}
+.slider_area .nivo-slider-wrapper .nivo-caption {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.slider_area .nivo-slider-wrapper .nivo-directionNav a {
+    background-color: transparent;
+}
+.slider_area.about_me_feature_area.parallax_bg:after {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.slider_area.about_me_feature_area.parallax_bg.partical_box:after {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.commentsBox .comment-respond .comment-form .form-submit .btn:after {
+    background-color: transparent;
+}
+
+
+
+
+
+
+/*  Background Colors
+  -----------------------------------------*/
+
+/* White Color */
+.white-color,
+.btn-darkgray,
+.white_header_text.site-header .navbar ul.navbar-nav li a,
+.white_header_text.site-header .navbar ul.navbar-nav li.active a,
+.slider_area .btn.btn-border,
+.slider_area .home_slider .slingle_home_slider .slider_area_inner h2,
+.slider_area .home_slider .slingle_home_slider .slider_area_inner h1,
+.slider_area .home_slider .slingle_home_slider .slider_area_inner p,
+.slider_area .owl-nav>div .fa,
+.slider_area .hero_image_section .slingle_normal_home_slider .slider_area_inner,
+.slider_area .home_slider_normal .slingle_normal_home_slider .slider_area_inner,
+.slider_area .hero_image_section .slingle_normal_home_slider .slider_area_inner h2,
+.slider_area .home_slider_normal .slingle_normal_home_slider .slider_area_inner h2,
+.slider_area .hero_image_section .slingle_normal_home_slider .slider_area_inner h1,
+.slider_area .home_slider_normal .slingle_normal_home_slider .slider_area_inner h1,
+.slider_area .hero_image_section .slingle_normal_home_slider .slider_area_inner p,
+.slider_area .home_slider_normal .slingle_normal_home_slider .slider_area_inner p,
+.slider_area .nivo-slider-wrapper .nivo-caption,
+.slider_area .nivo-slider-wrapper .nivo-caption h2,
+.slider_area .nivo-slider-wrapper .nivo-caption h1,
+.slider_area .nivo-slider-wrapper .nivo-caption p,
+.slider_area .nivo-slider-wrapper .nivo-directionNav a,
+.slider_area.about_me_feature_area.parallax_bg .about_me_text h1,
+.slider_area.about_me_feature_area.parallax_bg .about_me_text h3,
+.slider_area.about_me_feature_area.parallax_bg .about_me_text p,
+.slider_area.about_me_feature_area.parallax_bg .about_me_text a,
+.skill_area .skill_bar_inner_box .skill_bars .bar .bar-inner:after,
+.portfolio_items .portfolio_tile .portfolio_overlay,
+.footer_social_box li:hover a,
+.scrollup,
+.widget .tagcloud a.active,
+.widget .tagcloud a:hover,
+.maheer_select button .bs-caret .caret,
+.maheer_select .dropdown-menu>li a:focus,
+.maheer_select .dropdown-menu>li a:hover,
+#loader-wrapper .stop_loading {
+    color: #fff;
+}
+
+
+.dark-gray-color,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.btn-border,
+.btn-border:hover,
+.slider_area .btn.btn-border:hover,
+.slider_area .home_slider:hover .owl-nav>div:hover .fa,
+.slider_area .hero_image_section:hover .owl-nav>div:hover .fa,
+.slider_area .home_slider_normal:hover .owl-nav>div:hover .fa,
+.slider_area .nivo-slider-wrapper .nivo-caption h2 span,
+.slider_area .nivo-slider-wrapper .nivo-directionNav a:hover,
+.about_me_feature_area .about_me_text,
+.about_me_feature_area .about_me_text .btn-border,
+.slider_area.about_me_feature_area.parallax_bg .about_me_text a:hover,
+.about_us_area .about_personal_info ul li,
+.blog_area.blogpage_area .blog_item.blog_posts_page .blog_item_detail blockquote,
+.widget ul li a:hover,
+.widget .single_recent_post .recent_post_detail .recent_meta,
+.TweetAuthor-link,
+.tweet-content a,
+.commentsBox ol.comment-list li.comment .comment-body .comment-wrapper .comment-reply-link,
+.commentsBox .comment-respond .comment-form .form-submit .btn:hover {
+    color: #fff;
+}
+/* Light Gray Color = #606060 */
+.light-gray-color,
+body,
+.h1 .small,
+.h1 small,
+.h2 .small,
+.h2 small,
+.h3 .small,
+.h3 small,
+.h4 .small,
+.h4 small,
+.h5 .small,
+.h5 small,
+.h6 .small,
+.h6 small,
+h1 .small,
+h1 small,
+h2 .small,
+h2 small,
+h3 .small,
+h3 small,
+h4 .small,
+h4 small,
+h5 .small,
+h5 small,
+h6 .small,
+h6 small,
+.section_title p,
+.white_header_text.affix.site-header .navbar ul.navbar-nav li a,
+.white_header_text.affix.site-header .navbar ul.navbar-nav li.active a,
+.site-header .navbar ul.navbar-nav li a,
+.site-header .navbar ul.navbar-nav li.active a,
+.slider_area .home_slider .slingle_home_slider .slider_area_inner h2 span,
+.slider_area .owl-nav>div:before,
+.slider_area .hero_image_section .slingle_normal_home_slider .slider_area_inner h2 span,
+.slider_area .home_slider_normal .slingle_normal_home_slider .slider_area_inner h2 span,
+.about_me_feature_area .about_me_text p,
+.my_experience_boxes .my_experience h5,
+.my_experience_boxes .my_experience p,
+.portfolio_filter li,
+.services_boxes .my_service>a>.fa,
+.services_boxes .my_service>.fa,
+.contact_form_box label,
+.footer_area .copyright_text,
+.footer_social_box li a,
+.page_title_area .page_title,
+.blog_area.blogpage_area .blog_item.blog_posts_page .blog_item_detail,
+.blog_area.blogpage_area .blog_item.blog_posts_page .blog_item_detail .blog_post_title:hover a,
+.widget ul li a,
+.widget .single_recent_post .recent_post_detail h5 a:hover,
+.widget .single_recent_post .recent_post_detail p,
+.widget .tagcloud a,
+.TweetAuthor-link:hover,
+.tweet-content,
+.about_me_feature_area .about_me_text .btn-border{
+    color: #d0d0d0;
+}
+
+.light-gray-place-color,
+.contact_form_box .name_email input::-webkit-input-placeholder,
+.contact_form_box .name_email input::-moz-placeholder,
+.contact_form_box .name_email input:-ms-input-placeholder,
+.contact_form_box .name_email input:-moz-placeholder,
+.commentsBox .comment-respond .comment-form .form-control::-webkit-placeholder,
+.commentsBox .comment-respond .comment-form .form-control::-moz-placeholder,
+.commentsBox .comment-respond .comment-form .form-control::-ms-placeholder,
+.commentsBox .comment-respond .comment-form .form-control::-o-placeholder,
+.commentsBox .comment-respond .comment-form .form-control::-placeholder {
+    color: #d0d0d0;
+}
+
+/* Lighter Gray Color = #cccccc */
+.lighter-gray-color,
+.blog-post .blog_post_meta .meta_author,
+.blog-post .blog_post_meta .meta_date,
+.blog-post .blog_post_meta .btn,
+.blog_area.blogpage_area .blog_item.blog_posts_page .blog_item_meta.blog_post_meta>ul li a,
+.commentsBox .comment-respond .comment-form .form-control {
+    color: #cccccc;
+}
+.testimonial_slider .testimonial_slider_item .test_content .fa {
+    color: #dbd9d9;
+}
+.services_boxes .my_service .service_detail a {
+    color: inherit;
+}
+.contact_info_box .contact_info p,
+.contact_info_box .contact_info a {
+    color: inherit;
+}
+.commentsBox ol.comment-list li.comment .comment-body .comment-wrapper .comment-metadata a {
+    color: inherit;
+}
+.commentsBox ol.comment-list li.comment .comment-body .comment-wrapper .comment-reply-link {
+    color: inherit;
+}
+
+
+/*Color Code = #d1d1d1*/
+.about_me_feature_area .about_me_text h3 {
+    color: #d1d1d1;
+}
+
+
+
+
+
+/*  Border Colors
+  -----------------------------------------*/
+
+/* White border Color */
+.white-bor-color,
+.slider_area .nivo-slider-wrapper .nivo-directionNav a,
+.slider_area .nivo-slider-wrapper .nivo-directionNav a:hover,
+.portfolio_items .portfolio_tile .portfolio_overlay:after,
+.portfolio_items .portfolio_tile .portfolio_overlay:before {
+    border-color: #fff;
+}
+/* Gray Border Color */
+.dark-gray-bor,
+.btn-darkgray,
+.form-control:focus,
+.navbar-toggle,
+.about_me_feature_area .about_me_text .btn-border,
+.scrollup,
+.widget .tagcloud a.active,
+.widget .tagcloud a:hover {
+    border-color: #fff;
+}
+/* Light Gray Border Color */
+.light-gray-bor,
+.portfolio_filter li:hover,
+.portfolio_filter li.active,
+.contact_form_box .name_email input:focus,
+.contact_form_box textarea:focus,
+.footer_social_box li,
+.blog_area.blogpage_area .blog_item.blog_posts_page .blog_item_detail blockquote,
+.widget .widget_title {
+    border-color: #d0d0d0;
+}
+/* Light Gray Border Color */
+.lighter-gray-bor,
+.btn-border,
+.blog .site-header.navbar-fixed-top.affix-top,
+.skill_area .skill_bar_inner_box .skill_bars .bar,
+.services_boxes .my_service>a>.fa,
+.services_boxes .my_service>.fa,
+.testimonial_slider .testimonial_slider_item .test_title_image .test_image,
+.testimonial_slider .testimonial_slider_item .test_title_image .test_image:before,
+.blog-post,
+.blog-post .blog_post_meta,
+.contact_info_box .contact_info,
+.contact_form_box .name_email input,
+.contact_form_box textarea,
+.widget ul li,
+.widget .single_recent_post,
+.widget .tagcloud a,
+.widget.widget_archive,
+.maheer_select button,
+.single_maheer_tfb {
+    border-color: #cccccc;
+}
+.form-control:focus {
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(96, 96, 96, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(96, 96, 96, 0.6);
+}
+.portfolio_filter li {
+    border-bottom-color: transparent;
+}
+/*** For 767px or less resolution display devices ***/
+@media only screen and (max-width: 767px) {
+    .white_header_text.site-header .navbar .navbar-toggle {
+        border-color: #fff;
+    }
+    .white_header_text.site-header .navbar .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .white_header_text.site-header.affix .navbar .navbar-toggle {
+        border-color: #222222;
+    }
+    .white_header_text.site-header.affix .navbar .navbar-toggle .icon-bar {
+        background-color: #222222;
+    }
+    .site-header .navbar ul.navbar-nav li.active a,
+    .site-header .navbar ul.navbar-nav li:hover a {
+        background-color: #222222;
+        color: #fff;
+    }
+    .white_header_text.site-header.affix .navbar ul.navbar-nav li.active a,
+    .white_header_text.site-header.affix .navbar ul.navbar-nav li:hover a {
+        color: #fff;
+    }
+    .white_header_text.site-header .navbar ul.navbar-nav li a {
+        color: #222222;
+    }
+    .navbar-collapse {
+        background-color: #fff;
+    }
+}
+.btn-darkgray{
+    background-color: #fff;
+    color: #202020;
+}
+.btn-darkgray:hover{
+    background-color: #d0d0d0;
+}
+.btn-border:hover{
+    color: #202020;
+}
+.skill_area .skill_bar_inner_box .skill_bars .bar{
+    border-color: #303030;
+}
+.skill_area .skill_bar_inner_box .skill_bars .bar .bar-inner,
+.skill_area .skill_bar_inner_box .skill_bars .bar .bar-inner:after{
+    background-color: #303030;
+}
+.skill_area .skill_bar_inner_box .skill_bars .bar .bar-inner:before{
+    background-color: #fff;
+}
+.blog-post .blog_post_content h4{
+    color: #202020;
+}
+.blog-post .blog_post_content h4{
+    color: #202020;
+}
+.blog-post .blog_post_content p,
+.blog-post .blog_post_meta .meta_author, 
+.blog-post .blog_post_meta .meta_date, 
+.blog-post .blog_post_meta .btn, 
+.blog_area.blogpage_area .blog_item.blog_posts_page .blog_item_meta.blog_post_meta>ul li a{
+    color: #606060;
+}
+.blog-post:hover{
+    background-color: #fff;
+}
+.contact_form_box .name_email input, .contact_form_box textarea {
+    background-color: transparent;
+}
+#loader-wrapper .stop_loading{
+    background-color: #fff;
+    color: #202020;
+}
+#loader-wrapper .line{
+    background-color: #fff;
+}
+.contact_info_box .contact_info:hover p,
+.contact_info_box .contact_info:hover a,
+.contact_info_box .contact_info:hover h5{
+    color: #202020;
+}
+.scrollup, .widget .tagcloud a.active, .widget .tagcloud a:hover{
+    background-color: #fff;
+    color: #202020;
+}
+.ColorSwitcher__control{
+    background-color: #ccc;
+}
+.navbar-brand > img.logo_dark,
+.white_header_text.affix.site-header .navbar-brand > img.logo_dark{
+    display: none;
+}
+.navbar-brand > img.logo_whtie,
+.white_header_text.affix.site-header .logo_whtie{
+    display: block;
+}
+.footer_social_box.text-right li:hover a {
+  color: #202020;
+}
+.commentsBox .comment-respond .comment-form .form-submit .btn {
+  color: #d1d1d1;
+}
+.slider_area.about_me_feature_area.parallax_bg {
+  background-color: transparent;
+}

@@ -1,0 +1,87 @@
+// Mixins
+
+.body-font {
+	font-family: $body-font;
+}
+
+
+
+/* Transition style */
+.transition-all {
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s;
+}
+
+/* White */
+/* White Color */
+.white-color{
+    color: $white-base;
+}
+/* White Backgorund Color */
+.white-bg{
+    background-color: $white-base;
+}
+
+/* White border Color */
+.white-bor-color{
+    border-color: $white-base;
+}
+
+
+/* Dark White Color */
+.white-dark-color{
+    color: $white-light-dark;
+}
+/* Dark White backgorund Color  */
+.white-dark-bg{
+    background-color: $white-light-dark;
+}
+
+
+/* Gray */
+/* Gray Color */
+.dark-gray-color{
+    color: $gray-dark;
+}
+/* Gray Backgorund Color */
+.dark-gray-bg{
+    background-color: $gray-dark;
+}
+/* Gray Border Color */
+.dark-gray-bor{
+    border-color: $gray-dark;
+}
+
+
+/* Light Gray Color */
+.light-gray-color{
+    color: $gray-light;
+}
+/* Light Gray Background Color */
+.light-gray-bg{
+    background-color: $gray-light;
+}
+/* Light Gray Border Color */
+.light-gray-bor{
+    border-color: $gray-light;
+}
+/* Light Gray placeholder Color */
+.light-gray-place-color{
+    color: $gray-light;
+}
+
+
+/* Lighter Gray Color */
+.lighter-gray-color{
+    color: $gray-lighter;
+}
+/* Light Gray Background Color */
+.lighter-gray-bg{
+    background-color: $gray-lighter;
+}
+/* Light Gray Border Color */
+.lighter-gray-bor{
+    border-color: $gray-lighter;
+}
+
