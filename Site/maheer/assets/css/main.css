@@ -2705,6 +2705,10 @@ header.site-header.navbar-fixed-top.affix {
   padding: 14em 0;
 }
 
-/*#portfolio{
-  padding: 14em 0;
-}*/
+.btn:focus {
+color: white;
+}
+
+.btn:hover {
+color: #333;
+}
