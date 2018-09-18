@@ -7,8 +7,8 @@
     Support: https://themeforest.net/user/webdgallery
 *********************************************************/
 
-/* 
-=======================	
+/*
+=======================
 Table Of Content
 =======================
 	1. Reset Code
@@ -37,7 +37,7 @@ Table Of Content
     16. Responsive Stylesheet
 */
 
-/*================== 
+/*==================
     1. Reset Code
   ==================*/
 .body-font,
@@ -200,7 +200,7 @@ section {
     background: transparent;
     min-height: 650px;
 }
-/*================== 
+/*==================
     2. Header
   ==================*/
 /* 2.1 Header Logo
@@ -264,7 +264,7 @@ header.site-header.navbar-fixed-top.affix {
 .site-header .navbar ul.navbar-nav li:hover a:after {
     width: 100%;
 }
-/*========================== 
+/*==========================
     3. Slider
 ==========================*/
 /* 3.1 FUll Width Slider
@@ -384,7 +384,7 @@ header.site-header.navbar-fixed-top.affix {
 .slider_area .owl-prev {
     float: left;
 }
-/* 3.2 Normal Slider 
+/* 3.2 Normal Slider
   -----------------------------*/
 .slider_area .hero_image_section,
 .slider_area .home_slider_normal {
@@ -530,7 +530,7 @@ header.site-header.navbar-fixed-top.affix {
     display: block;
     overflow: hidden;
 }
-/*========================== 
+/*==========================
     4. Hero Image
 ==========================*/
 .about_me_feature_area {
@@ -723,7 +723,7 @@ header.site-header.navbar-fixed-top.affix {
     right: 0;
     top: 180px;
 }
-/*============================================== 
+/*==============================================
     5. Service Area & Skill Bar area
 =================================================*/
 .services_area.skill_area .skill_bar_inner_box {
@@ -738,7 +738,7 @@ header.site-header.navbar-fixed-top.affix {
 .services_area.skill_area .skill_bar_inner_box .skill_bars .bar {
     margin-bottom: 0;
 }
-/*============================================== 
+/*==============================================
     6. Skill Bar area
 =================================================*/
 .skill_area .skill_bar_inner_box {
@@ -839,7 +839,7 @@ header.site-header.navbar-fixed-top.affix {
 .my_experience_boxes .my_experience p {
     font-weight: 200;
 }
-/*============================================== 
+/*==============================================
     7. Portfolio Area
 =================================================*/
 .portfolio_filter {
@@ -954,7 +954,7 @@ header.site-header.navbar-fixed-top.affix {
     transform: scale(1);
     opacity: 1;
 }
-/*============================================== 
+/*==============================================
     8. Service Area
 =================================================*/
 .services_boxes {
@@ -1008,7 +1008,7 @@ header.site-header.navbar-fixed-top.affix {
     font-size: 20px;
     margin-bottom: 15px;
 }
-/*============================================== 
+/*==============================================
     9. Video Area
 =================================================*/
 .popup_video_box {
@@ -1037,7 +1037,7 @@ header.site-header.navbar-fixed-top.affix {
     text-align: center;
     margin: auto;
 }
-/*============================================== 
+/*==============================================
     10. Testimonial Area
 =================================================*/
 .testimonial_slider {
@@ -1129,7 +1129,7 @@ header.site-header.navbar-fixed-top.affix {
     width: 65px;
     z-index: -1;
 }
-/*============================================== 
+/*==============================================
     11. Blog Area
 =================================================*/
 .blog-post {
@@ -1667,7 +1667,7 @@ header.site-header.navbar-fixed-top.affix {
 .commentsBox .comment-respond .comment-form .form-submit .btn:hover:after {
     height: 100%;
 }
-/*============================================== 
+/*==============================================
     12. Srart Project Area
 =================================================*/
 .start_project_area h2 {
@@ -1775,7 +1775,7 @@ header.site-header.navbar-fixed-top.affix {
     padding: 10px 30px;
     display: inherit;
 }
-/*============================================== 
+/*==============================================
     13. Footer
 =================================================*/
 .footer_area {
@@ -2699,4 +2699,8 @@ header.site-header.navbar-fixed-top.affix {
     .slider_area.about_me_feature_area.parallax_bg.partical_box .about_me_text h1 {
         font-size: 30px;
     }
+}
+
+#contact{
+  padding: 14em 0;
 }
