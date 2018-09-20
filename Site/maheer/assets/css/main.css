@@ -2131,9 +2131,9 @@ header.site-header.navbar-fixed-top.affix {
     -webkit-transform: scale(1);
     transform: scale(1);
 }
-.mfp-zoom-in.mfp-ready.mfp-bg {
+/*.mfp-zoom-in.mfp-ready.mfp-bg {
     opacity: 0.8;
-}
+}*/
 .mfp-zoom-in.mfp-removing .mfp-with-anim {
     -webkit-transform: scale(0.8);
     transform: scale(0.8);

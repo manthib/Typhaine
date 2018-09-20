@@ -16,11 +16,14 @@ $('.portfolio_items').magnificPopup({
     tLoading: 'Loading image #%curr%...',
     mainClass: 'mfp-img-mobile',
     gallery: {
+        tCounter: '<span class="mfp-counter">%curr% sur %total%</span>',
         enabled: true,
         navigateByImgClick: true,
         preload: [0, 1]
     },
     image: {
+
+        titleSrc: 'mes couilles sur ton nez',
         tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
     }
 }).magnificPopup('open');
