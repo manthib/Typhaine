@@ -1,22 +1,26 @@
 (function($) {
     "use strict"; // Start of use strict
-    // varible 
+    // varible
     var window_box = $(window),     						// For window ready
 		document_func = $(document),        				// For documetn ready
 		html_body = $("html, body"),        				// For html and bocy select
 		body = $('body'),       							// For body select
 		navbar_scroll = $('.navbar-collapse ul li a'),       // For nav section select function
 		sticky_header = $('.site-header'),                   // Sticky fix header
-        home_fullscreen_slider = $(".home_slider"),           // Home Full Screen Slider
-        home_normal_slider = $('.home_slider_normal'),        // Home Normal Slider
+    home_fullscreen_slider = $(".home_slider"),           // Home Full Screen Slider
+    home_normal_slider = $('.home_slider_normal'),        // Home Normal Slider
 		home_nivo_slider = $('#nivoslider'),                  // Home Nivo Slider
-		scroll_up = $('.scrollup'),                           // For scroll to top 
+		scroll_up = $('.scrollup'),                           // For scroll to top
 		portfolio_box = $('.portfolio_items'),                // For portfolio isotop & popup
 		portfolio_box_filter = $('.portfolio_filter'),        // for portfolio filter button
 		popup_video = $('.popup-video'),                      // for popup video
 		testimonial_slider_box = $('.testimonial_slider'),    // for testimonial slider
 		blog_sidebar_select = $('.selectpicker');             // for custom select
-	// Page Loader
+
+
+
+
+	   // Page Loader
     window_box.on('load', function () {
         body.addClass('loaded');
     });
@@ -174,30 +178,6 @@
     $grid.imagesLoaded().progress( function() {
       $grid.isotope('layout');
     });
-    // Portfolio Pop Script
-    portfolio_box.magnificPopup({
-        delegate: 'a',
-        type: 'image',
-        removalDelay: 500, //delay removal by X to allow out-animation
-        callbacks: {
-            beforeOpen: function () {
-                this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
-                this.st.mainClass = this.st.el.attr('data-effect');
-            }
-        },
-        closeOnContentClick: true,
-        midClick: true,
-        tLoading: 'Loading image #%curr%...',
-        mainClass: 'mfp-img-mobile',
-        gallery: {
-            enabled: true,
-            navigateByImgClick: true,
-            preload: [0, 1]
-        },
-        image: {
-            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
-        }
-    });
     // Video Popup
     popup_video.magnificPopup({
         disableOn: 700,
@@ -213,7 +193,7 @@
         margin:80,
         nav:true,
         autoplay: true,
-        nav: true,
+
         dots: true,
         responsive:{
             0:{
