@@ -287,7 +287,7 @@ img.mfp-img {
 .mfp-title {
   text-align: left;
   line-height: 18px;
-  color: #F3F3F3;
+  color: black;
   word-wrap: break-word;
   padding-right: 36px; }
 
@@ -349,3 +349,8 @@ img.mfp-img {
   .mfp-container {
     padding-left: 6px;
     padding-right: 6px; } }
+
+
+#page_top > div.mfp-wrap.mfp-gallery.mfp-close-btn-in.mfp-auto-cursor.mfp-zoom-in.mfp-ready > div > div.mfp-content > div > figure > figcaption > div > div.mfp-title{
+  padding-right: 40%;
+}

@@ -23,7 +23,10 @@ $('.portfolio_items').magnificPopup({
     },
     image: {
 
-        titleSrc: 'mes couilles sur ton nez',
+
+        titleSrc: function(item) {
+              return item.el.attr('caption');
+             },
         tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
     }
 }).magnificPopup('open');
