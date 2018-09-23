@@ -35,17 +35,26 @@
       <file leaf-file-name="design.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="145" column="111" selection-start-line="145" selection-start-column="111" selection-end-line="145" selection-end-column="111" />
+            <state relative-caret-position="277">
+              <caret line="152" column="101" selection-start-line="152" selection-start-column="101" selection-end-line="152" selection-end-column="101" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alex.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="caminale.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projets/Archi-caminale/caminale.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="605">
+              <caret line="127" column="32" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alex.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projets/Archi-alexandre/alex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="104" column="69" selection-start-line="104" selection-start-column="69" selection-end-line="104" selection-end-column="69" />
+            <state relative-caret-position="299">
+              <caret line="99" column="42" selection-end-line="165" />
             </state>
           </provider>
         </entry>
@@ -96,8 +105,9 @@
         <option value="$PROJECT_DIR$/projets/Archi-format-pays/fp.html" />
         <option value="$PROJECT_DIR$/projets/Archi-popup/popup.html" />
         <option value="$PROJECT_DIR$/projets/Archi-sceno/sceno.html" />
-        <option value="$PROJECT_DIR$/design.html" />
         <option value="$PROJECT_DIR$/projets/Archi-alexandre/alex.html" />
+        <option value="$PROJECT_DIR$/design.html" />
+        <option value="$PROJECT_DIR$/projets/Archi-caminale/caminale.html" />
       </list>
     </option>
   </component>
@@ -201,7 +211,7 @@
               <item name="maheer" type="b2602c69:ProjectViewProjectNode" />
               <item name="maheer" type="462c0819:PsiDirectoryNode" />
               <item name="projets" type="462c0819:PsiDirectoryNode" />
-              <item name="Archi-alexandre" type="462c0819:PsiDirectoryNode" />
+              <item name="Archi-caminale" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,12 +250,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537370921700</updated>
-      <workItem from="1537370924113" duration="27710000" />
+      <workItem from="1537370924113" duration="30018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27710000" />
+    <option name="totallyTimeSpent" value="30018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -366,13 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="145" column="111" selection-start-line="145" selection-start-column="111" selection-end-line="145" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projets/Archi-sceno/sceno.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
@@ -380,10 +383,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/design.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="152" column="101" selection-start-line="152" selection-start-column="101" selection-end-line="152" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projets/Archi-alexandre/alex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="104" column="69" selection-start-line="104" selection-start-column="69" selection-end-line="104" selection-end-column="69" />
+        <state relative-caret-position="299">
+          <caret line="99" column="42" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/Archi-caminale/caminale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="127" column="32" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="32" />
         </state>
       </provider>
     </entry>
