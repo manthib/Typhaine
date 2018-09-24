@@ -17,17 +17,26 @@
       <file leaf-file-name="art.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/art.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="145" column="93" selection-start-line="145" selection-start-column="93" selection-end-line="145" selection-end-column="93" />
+            <state relative-caret-position="270">
+              <caret line="152" column="104" selection-start-line="152" selection-start-column="104" selection-end-line="152" selection-end-column="104" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="defense.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pav.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projets/dessin-pavillon/pav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="635">
+              <caret line="109" column="18" lean-forward="true" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="defense.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projets/dessin-defense/defense.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1281">
-              <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+            <state relative-caret-position="362">
+              <caret line="98" column="41" selection-end-line="149" />
             </state>
           </provider>
         </entry>
@@ -98,8 +107,9 @@
         <option value="$PROJECT_DIR$/projets/archi-sceno/sceno.html" />
         <option value="$PROJECT_DIR$/projets/dessin-vide/vide.html" />
         <option value="$PROJECT_DIR$/projets/dessin-archive/archive.html" />
-        <option value="$PROJECT_DIR$/art.html" />
         <option value="$PROJECT_DIR$/projets/dessin-defense/defense.html" />
+        <option value="$PROJECT_DIR$/art.html" />
+        <option value="$PROJECT_DIR$/projets/dessin-pavillon/pav.html" />
       </list>
     </option>
   </component>
@@ -203,7 +213,7 @@
               <item name="maheer" type="b2602c69:ProjectViewProjectNode" />
               <item name="maheer" type="462c0819:PsiDirectoryNode" />
               <item name="projets" type="462c0819:PsiDirectoryNode" />
-              <item name="dessin-defense" type="462c0819:PsiDirectoryNode" />
+              <item name="dessin-pavillon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maheer" type="b2602c69:ProjectViewProjectNode" />
@@ -248,12 +258,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537370921700</updated>
-      <workItem from="1537370924113" duration="39032000" />
+      <workItem from="1537370924113" duration="39816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39032000" />
+    <option name="totallyTimeSpent" value="39816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -437,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/art.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="145" column="93" selection-start-line="145" selection-start-column="93" selection-end-line="145" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projets/dessin-archive/archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -451,10 +454,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/art.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="152" column="104" selection-start-line="152" selection-start-column="104" selection-end-line="152" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projets/dessin-defense/defense.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1281">
-          <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+        <state relative-caret-position="362">
+          <caret line="98" column="41" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/dessin-pavillon/pav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="109" column="18" lean-forward="true" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
         </state>
       </provider>
     </entry>
