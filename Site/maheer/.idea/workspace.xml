@@ -17,17 +17,17 @@
       <file leaf-file-name="art.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/art.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="123" column="115" selection-start-line="122" selection-start-column="32" selection-end-line="123" selection-end-column="115" />
+            <state relative-caret-position="382">
+              <caret line="124" column="32" lean-forward="true" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CGP.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CGP.html">
+      <file leaf-file-name="cgp.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projets/dessin-cgp/cgp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="89" column="36" selection-start-line="89" selection-start-column="36" selection-end-line="89" selection-end-column="36" />
+            <state relative-caret-position="414">
+              <caret line="93" column="68" selection-start-line="93" selection-start-column="68" selection-end-line="93" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -35,71 +35,26 @@
       <file leaf-file-name="design.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="173" column="96" lean-forward="true" selection-start-line="173" selection-start-column="88" selection-end-line="173" selection-end-column="96" />
+            <state relative-caret-position="534">
+              <caret line="182" column="30" selection-start-line="182" selection-start-column="30" selection-end-line="182" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lumiere.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wom.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projets/obj-wom/wom.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="100" column="37" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lumiere.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projets/obj-lumiere/lumiere.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="650">
-              <caret line="126" column="42" selection-start-line="126" selection-start-column="42" selection-end-line="126" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="anthro.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projets/mob-anthro/anthro.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="110" column="41" selection-end-line="175" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fp.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projets/archi-format-pays/fp.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="box.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projets/mob-box/box.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="122" column="48" selection-end-line="178" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="caminale.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projets/archi-caminale/caminale.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="127" column="32" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alex.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projets/archi-alexandre/alex.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="99" column="42" selection-end-line="165" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sceno.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projets/archi-sceno/sceno.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="165" column="18" selection-end-line="205" />
+              <caret line="126" column="42" selection-end-line="172" />
             </state>
           </provider>
         </entry>
@@ -136,7 +91,6 @@
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/lib/magnific-popup/magnific-popup.css" />
         <option value="$PROJECT_DIR$/assets/js/portfolio.js" />
-        <option value="$PROJECT_DIR$/art.html" />
         <option value="$PROJECT_DIR$/CGP.html" />
         <option value="$PROJECT_DIR$/projets/Archi-format-pays/fp.html" />
         <option value="$PROJECT_DIR$/projets/Archi-popup/popup.html" />
@@ -146,8 +100,11 @@
         <option value="$PROJECT_DIR$/projets/Mob-box/box.html" />
         <option value="$PROJECT_DIR$/projets/archi-format-pays/fp.html" />
         <option value="$PROJECT_DIR$/projets/mob-anthro/anthro.html" />
-        <option value="$PROJECT_DIR$/design.html" />
         <option value="$PROJECT_DIR$/projets/obj-lumiere/lumiere.html" />
+        <option value="$PROJECT_DIR$/design.html" />
+        <option value="$PROJECT_DIR$/projets/obj-wom/wom.html" />
+        <option value="$PROJECT_DIR$/art.html" />
+        <option value="$PROJECT_DIR$/projets/dessin-cgp/cgp.html" />
       </list>
     </option>
   </component>
@@ -251,25 +208,13 @@
               <item name="maheer" type="b2602c69:ProjectViewProjectNode" />
               <item name="maheer" type="462c0819:PsiDirectoryNode" />
               <item name="projets" type="462c0819:PsiDirectoryNode" />
-              <item name="archi-format-pays" type="462c0819:PsiDirectoryNode" />
+              <item name="dessin-cgp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maheer" type="b2602c69:ProjectViewProjectNode" />
               <item name="maheer" type="462c0819:PsiDirectoryNode" />
               <item name="projets" type="462c0819:PsiDirectoryNode" />
-              <item name="mob-anthro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maheer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maheer" type="462c0819:PsiDirectoryNode" />
-              <item name="projets" type="462c0819:PsiDirectoryNode" />
-              <item name="mob-box" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maheer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maheer" type="462c0819:PsiDirectoryNode" />
-              <item name="projets" type="462c0819:PsiDirectoryNode" />
-              <item name="obj-lumiere" type="462c0819:PsiDirectoryNode" />
+              <item name="obj-wom" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,12 +253,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537370921700</updated>
-      <workItem from="1537370924113" duration="34990000" />
+      <workItem from="1537370924113" duration="36730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34990000" />
+    <option name="totallyTimeSpent" value="36730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -406,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/art.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="123" column="115" selection-start-line="122" selection-start-column="32" selection-end-line="123" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CGP.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -441,13 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projets/archi-sceno/sceno.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="165" column="18" selection-end-line="205" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projets/archi-format-pays/fp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -462,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="173" column="96" lean-forward="true" selection-start-line="173" selection-start-column="88" selection-end-line="173" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projets/mob-anthro/anthro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -476,10 +400,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projets/archi-sceno/sceno.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="165" column="18" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/obj-wom/wom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="100" column="37" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="182" column="30" selection-start-line="182" selection-start-column="30" selection-end-line="182" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/art.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="124" column="32" lean-forward="true" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projets/obj-lumiere/lumiere.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
-          <caret line="126" column="42" selection-start-line="126" selection-start-column="42" selection-end-line="126" selection-end-column="42" />
+          <caret line="126" column="42" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/dessin-cgp/cgp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="93" column="68" selection-start-line="93" selection-start-column="68" selection-end-line="93" selection-end-column="68" />
         </state>
       </provider>
     </entry>
