@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e91d3ed6-143c-430b-86e2-6e0431118edc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Site/maheer/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/maheer/art.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Site/maheer/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Site/maheer/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Site/maheer/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Site/maheer/assets/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Site/maheer/assets/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/Site/maheer/assets/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Site/maheer/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/maheer/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Site/maheer/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/maheer/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site/maheer/assets/img/favicon.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Site/maheer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/maheer/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Site/maheer/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="250" column="28" selection-start-line="250" selection-start-column="28" selection-end-line="251" selection-end-column="151" />
+            <state relative-caret-position="210">
+              <caret line="14" column="77" lean-forward="true" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -61,17 +57,17 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Site/maheer/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="127" column="2" lean-forward="true" selection-start-line="127" selection-start-column="2" selection-end-line="127" selection-end-column="2" />
+            <state relative-caret-position="209">
+              <caret line="116" column="98" selection-start-line="116" selection-start-column="74" selection-end-line="116" selection-end-column="98" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Site/maheer/assets/mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            <state relative-caret-position="31">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -94,11 +90,11 @@
         <option value="$PROJECT_DIR$/../Auboncoin/Site/owl-restaurant/index.html" />
         <option value="$PROJECT_DIR$/../Auboncoin/Site/owl-restaurant/process-contact-form.php" />
         <option value="$PROJECT_DIR$/Site/maheer/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/Site/maheer/index.html" />
         <option value="$PROJECT_DIR$/Site/maheer/art.html" />
         <option value="$PROJECT_DIR$/Site/maheer/design.html" />
         <option value="$PROJECT_DIR$/Site/maheer/contact.html" />
         <option value="$PROJECT_DIR$/Site/maheer/assets/mail.php" />
+        <option value="$PROJECT_DIR$/Site/maheer/index.html" />
       </list>
     </option>
   </component>
@@ -108,7 +104,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -189,15 +185,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538486815694</updated>
-      <workItem from="1538486817007" duration="7526000" />
+      <workItem from="1538486817007" duration="8442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7526000" />
+    <option name="totallyTimeSpent" value="8442000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -260,13 +257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Site/maheer/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="250" column="28" selection-start-line="250" selection-start-column="28" selection-end-line="251" selection-end-column="151" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Site/maheer/art.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -283,15 +273,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Site/maheer/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="127" column="2" lean-forward="true" selection-start-line="127" selection-start-column="2" selection-end-line="127" selection-end-column="2" />
+        <state relative-caret-position="209">
+          <caret line="116" column="98" selection-start-line="116" selection-start-column="74" selection-end-line="116" selection-end-column="98" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Site/maheer/assets/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        <state relative-caret-position="31">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Site/maheer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="77" lean-forward="true" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
         </state>
       </provider>
     </entry>
