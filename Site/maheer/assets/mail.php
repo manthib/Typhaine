@@ -15,7 +15,7 @@
         }
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "info@webdgallery.com";
+        $recipient = "mannebarth.thibault@morman.fr";
         // Set the email subject.
         $subject = "New contact from $name";
         // Build the email content.
