@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="214" column="66" selection-start-line="214" selection-start-column="66" selection-end-line="214" selection-end-column="66" />
+            <state relative-caret-position="135">
+              <caret line="9" column="68" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -39,17 +39,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2279">
-              <caret line="4185" column="24" lean-forward="true" selection-start-line="4185" selection-start-column="24" selection-end-line="4185" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="magnific-popup.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/lib/magnific-popup/magnific-popup.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="270" column="19" lean-forward="true" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
+            <state relative-caret-position="59">
+              <caret line="4037" column="5" lean-forward="true" selection-start-line="4037" selection-start-column="5" selection-end-line="4037" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,8 +48,8 @@
       <file leaf-file-name="design.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+            <state relative-caret-position="52">
+              <caret line="98" column="36" lean-forward="true" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -117,17 +108,6 @@
         <option value="$PROJECT_DIR$/projets/Archi-alexandre/alex.html" />
         <option value="$PROJECT_DIR$/projets/Archi-caminale/caminale.html" />
         <option value="$PROJECT_DIR$/projets/Mob-box/box.html" />
-        <option value="$PROJECT_DIR$/projets/archi-format-pays/fp.html" />
-        <option value="$PROJECT_DIR$/projets/mob-anthro/anthro.html" />
-        <option value="$PROJECT_DIR$/projets/obj-lumiere/lumiere.html" />
-        <option value="$PROJECT_DIR$/projets/obj-wom/wom.html" />
-        <option value="$PROJECT_DIR$/projets/dessin-cgp/cgp.html" />
-        <option value="$PROJECT_DIR$/projets/archi-sceno/sceno.html" />
-        <option value="$PROJECT_DIR$/projets/dessin-vide/vide.html" />
-        <option value="$PROJECT_DIR$/projets/dessin-archive/archive.html" />
-        <option value="$PROJECT_DIR$/projets/dessin-defense/defense.html" />
-        <option value="$PROJECT_DIR$/projets/dessin-pavillon/pav.html" />
-        <option value="$PROJECT_DIR$/projets/instal-ici/ici.html" />
         <option value="$PROJECT_DIR$/projets/install-walk/walk.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
@@ -136,6 +116,22 @@
         <option value="$PROJECT_DIR$/design.html" />
         <option value="$PROJECT_DIR$/assets/js/portfolio.js" />
         <option value="$PROJECT_DIR$/assets/lib/magnific-popup/magnific-popup.css" />
+        <option value="$PROJECT_DIR$/projets/archi-alexandre/alex.html" />
+        <option value="$PROJECT_DIR$/projets/archi-caminale/caminale.html" />
+        <option value="$PROJECT_DIR$/projets/dessin-archive/archive.html" />
+        <option value="$PROJECT_DIR$/projets/archi-sceno/sceno.html" />
+        <option value="$PROJECT_DIR$/projets/archi-popup/popup.html" />
+        <option value="$PROJECT_DIR$/projets/archi-format-pays/fp.html" />
+        <option value="$PROJECT_DIR$/projets/dessin-cgp/cgp.html" />
+        <option value="$PROJECT_DIR$/projets/dessin-defense/defense.html" />
+        <option value="$PROJECT_DIR$/projets/dessin-pavillon/pav.html" />
+        <option value="$PROJECT_DIR$/projets/dessin-vide/vide.html" />
+        <option value="$PROJECT_DIR$/projets/instal-ici/ici.html" />
+        <option value="$PROJECT_DIR$/projets/instal-walk/walk.html" />
+        <option value="$PROJECT_DIR$/projets/mob-anthro/anthro.html" />
+        <option value="$PROJECT_DIR$/projets/mob-box/box.html" />
+        <option value="$PROJECT_DIR$/projets/obj-lumiere/lumiere.html" />
+        <option value="$PROJECT_DIR$/projets/obj-wom/wom.html" />
       </list>
     </option>
   </component>
@@ -260,16 +256,15 @@
       <option name="presentableId" value="Default" />
       <updated>1537370921700</updated>
       <workItem from="1537370924113" duration="41951000" />
-      <workItem from="1541412043344" duration="7213000" />
+      <workItem from="1541412043344" duration="7960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49164000" />
+    <option name="totallyTimeSpent" value="49911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -367,102 +362,32 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CGP.html" />
-    <entry file="file://$PROJECT_DIR$/projets/archi-popup/popup.html">
+    <entry file="file://$PROJECT_DIR$/projets/install-walk/walk.html" />
+    <entry file="file://$PROJECT_DIR$/assets/lib/magnific-popup/jquery.magnific-popup.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="132" column="40" selection-end-line="185" />
+        <state relative-caret-position="258">
+          <caret line="3" column="8841" selection-start-line="3" selection-start-column="8841" selection-end-line="3" selection-end-column="8841" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/magnific-popup/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="270" column="19" lean-forward="true" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projets/archi-alexandre/alex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="99" column="42" selection-end-line="165" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/archi-caminale/caminale.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="127" column="32" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/archi-format-pays/fp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/mob-box/box.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="122" column="48" selection-end-line="178" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/mob-anthro/anthro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="110" column="41" selection-end-line="175" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/obj-lumiere/lumiere.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="126" column="42" selection-end-line="172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/archi-sceno/sceno.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="134" column="22" selection-start-line="134" selection-start-column="22" selection-end-line="134" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/dessin-cgp/cgp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="104" selection-end-line="148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/dessin-vide/vide.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="99" column="44" selection-end-line="148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/dessin-archive/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" column="25" selection-end-line="162" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/dessin-defense/defense.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="98" column="41" selection-end-line="149" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/dessin-pavillon/pav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="109" column="18" selection-end-line="149" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projets/install-walk/walk.html" />
-    <entry file="file://$PROJECT_DIR$/projets/instal-ici/ici.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="107" selection-end-line="151" />
+        <state relative-caret-position="74">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -470,6 +395,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/dessin-archive/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/archi-sceno/sceno.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/archi-popup/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/archi-format-pays/fp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/archi-caminale/caminale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/dessin-cgp/cgp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="98" column="36" lean-forward="true" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/dessin-defense/defense.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/dessin-pavillon/pav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/dessin-vide/vide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/instal-ici/ici.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/instal-walk/walk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -484,52 +493,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/lib/magnific-popup/jquery.magnific-popup.min.js">
+    <entry file="file://$PROJECT_DIR$/projets/mob-anthro/anthro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="3" column="8841" selection-start-line="3" selection-start-column="8841" selection-end-line="3" selection-end-column="8841" />
+        <state relative-caret-position="748">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projets/obj-wom/wom.html">
+    <entry file="file://$PROJECT_DIR$/projets/mob-box/box.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="81" lean-forward="true" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+        <state relative-caret-position="193">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/portfolio.js">
+    <entry file="file://$PROJECT_DIR$/projets/obj-lumiere/lumiere.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="214" column="66" selection-start-line="214" selection-start-column="66" selection-end-line="214" selection-end-column="66" />
+        <state relative-caret-position="483">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2279">
-          <caret line="4185" column="24" lean-forward="true" selection-start-line="4185" selection-start-column="24" selection-end-line="4185" selection-end-column="24" />
+        <state relative-caret-position="59">
+          <caret line="4037" column="5" lean-forward="true" selection-start-line="4037" selection-start-column="5" selection-end-line="4037" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/lib/magnific-popup/magnific-popup.css">
+    <entry file="file://$PROJECT_DIR$/projets/obj-wom/wom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="270" column="19" lean-forward="true" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
+        <state relative-caret-position="748">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="68" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="68" />
         </state>
       </provider>
     </entry>
