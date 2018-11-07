@@ -2,6 +2,7 @@
 $('.portfolio_items').magnificPopup({
 
     delegate: 'a',
+    filter: '.archi',
     type: 'image',
     removalDelay: 500, //delay removal by X to allow out-animation
     callbacks: {
@@ -18,6 +19,7 @@ $('.portfolio_items').magnificPopup({
     gallery: {
         tCounter: '<span class="mfp-counter">%curr% sur %total%</span>',
         enabled: true,
+
         navigateByImgClick: true,
         preload: [0, 1]
     },
